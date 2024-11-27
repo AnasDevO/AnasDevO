@@ -59,9 +59,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/bigboss1941/bigboss1941/output/snake.svg" alt="Snake animation" />
-
-###
