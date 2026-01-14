@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anas and i'm an Electrical and Embedded Engineer, from Morocco</p>
+<p align="left">My name is Anas and i'm a software engineer, from Morocco</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working on a Booking Webapp Based on NextJS<br>📚 I'm currently learning React and TypeScript<br>🎯 Current Goals: Become proficient in Java</p>
+<p align="left">✨ Currently working on a multiplateform Radial task scheduler <br>📚 I'm currently learning React and TypeScript<br></p>
 
 ###
 
