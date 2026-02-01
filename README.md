@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Currently working on a multiplateform Radial task scheduler <br>📚 I'm currently learning React and TypeScript<br></p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
